@@ -1,0 +1,29 @@
+{
+  "order": false,
+  "user": true,
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "category": "Kurumsal",
+  "name": "patimatch",
+  "domain": "patimatch.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "",
+  "multi": false
+}
