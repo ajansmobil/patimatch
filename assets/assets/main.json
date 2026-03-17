@@ -1,0 +1,19 @@
+{
+  "project": {
+    "name": "PatiMatch",
+    "baseUrl": "https://patimatch.com",
+    "mediaBaseUrl": "https://patimatch.com",
+    "_comment": "Custom domain yoksa baseUrl ve mediaBaseUrl'i Worker URL yapın (örn. https://patimatch.xxx.workers.dev); resimler aynı host'tan sunulur.",
+    "database": "patimatch",
+    "test": {
+      "name": "PatiMatch",
+      "icon": true,
+      "android": {
+        "version": "1.0.0"
+      },
+      "ios": {
+        "version": "1.0.0"
+      }
+    }
+  }
+}
