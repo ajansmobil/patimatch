@@ -1,9 +1,9 @@
 {
   "project": {
     "name": "PatiMatch",
-    "baseUrl": "https://patimatch.com",
-    "mediaBaseUrl": "https://patimatch.com",
-    "_comment": "Custom domain yoksa baseUrl ve mediaBaseUrl'i Worker URL yapın (örn. https://patimatch.xxx.workers.dev); resimler aynı host'tan sunulur.",
+    "baseUrl": "https://patimatch.com/",
+    "mediaBaseUrl": "https://patimatch.com/",
+    "_comment": "DİKKAT: workers.dev URL patimatch.com yerine kullanıldığında API çoğu senaryoda çalışmaz (sabit apiUrl, CORS). baseUrl için patimatch.com önerilir.",
     "database": "patimatch",
     "test": {
       "name": "PatiMatch",
