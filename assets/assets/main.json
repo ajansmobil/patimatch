@@ -1,19 +1,20 @@
 {
   "project": {
     "name": "PatiMatch",
-    "baseUrl": "https://patimatch.com/",
-    "mediaBaseUrl": "https://patimatch.com/",
-    "_comment": "DİKKAT: workers.dev URL patimatch.com yerine kullanıldığında API çoğu senaryoda çalışmaz (sabit apiUrl, CORS). baseUrl için patimatch.com önerilir.",
+    "baseUrl": "https://patimatch.com",
     "database": "patimatch",
-    "test": {
+    "domain": "patimatch.com",
+    "description": "Evcil hayvan sahipleri için sosyal bir platform",
+    "version": "2.0.0"
+  },
+  "test": {
+    "android": {
       "name": "PatiMatch",
-      "icon": true,
-      "android": {
-        "version": "1.0.0"
-      },
-      "ios": {
-        "version": "1.0.0"
-      }
+      "icon": "assets/icon.png"
+    },
+    "ios": {
+      "name": "PatiMatch",
+      "icon": "assets/icon.png"
     }
   }
 }
