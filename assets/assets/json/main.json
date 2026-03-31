@@ -1,0 +1,27 @@
+{
+  "project": {
+    "name": "PatiMatch",
+    "baseUrl": "https://patimatch.com",
+    "mediaBaseUrl": "https://patimatch.com",
+    "database": "patimatch",
+    "domain": "patimatch.com",
+    "description": "Evcil hayvan sahipleri için sosyal bir platform",
+    "version": "2.0.0"
+  },
+  "langs": ["tr", "en"],
+  "lang_names": {
+    "tr": "Türkçe",
+    "en": "English"
+  },
+  "default": "tr",
+  "test": {
+    "android": {
+      "name": "PatiMatch",
+      "icon": "assets/icon.png"
+    },
+    "ios": {
+      "name": "PatiMatch",
+      "icon": "assets/icon.png"
+    }
+  }
+}
