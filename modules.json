@@ -125,6 +125,24 @@
       "version": "1.0.0",
       "icon": "web_asset",
       "index": 5
+    },
+    {
+      "index": 6,
+      "name": "text-module",
+      "path": "page-text",
+      "local": "body",
+      "category": "text",
+      "id": "jcq5dj",
+      "desing": {
+        "font-size": "18px",
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "version": "1.0.0",
+      "icon": "text_fields"
     }
   ]
 }

@@ -11,19 +11,30 @@
       "description": {
         "tr": "Pati Match uygulaması ve patimatch.com web hizmetleri için kişisel verilerin işlenmesi, Google Play ve diğer uygulama mağazaları ile 6698 sayılı KVKK kapsamında bilgilendirme."
       },
+      "keyword": {
+        "tr": "gizlilik politikası, kişisel veriler, KVKK, Pati Match, patimatch, mobil uygulama, veri güvenliği, Google Play"
+      },
       "path": "gizlilik-politikasi",
       "icon": "article",
       "category": "",
       "status": "play",
+      "desc": {},
       "index": 0,
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "jcq5dj"
+        ],
         "footer": []
       },
+      "slider": [],
       "pathnext": "",
+      "title": {
+        "tr": "Gizlilik Politikası"
+      },
       "textmodul": false,
-      "desc": {}
+      "update": "2026-04-08T22:42:49.173Z",
+      "date": "2026-04-09T12:00:00.000Z"
     },
     {
       "name": {

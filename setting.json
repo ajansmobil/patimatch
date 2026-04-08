@@ -24,6 +24,7 @@
     "ko": false,
     "pt": false
   },
-  "logo": "",
-  "multi": false
+  "logo": "logo.png",
+  "multi": false,
+  "eticaret": false
 }
