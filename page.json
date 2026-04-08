@@ -4,6 +4,28 @@
   "desc": [],
   "data": [
     {
+      "id": "i9efaovami",
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "description": {
+        "tr": "Pati Match uygulaması ve patimatch.com web hizmetleri için kişisel verilerin işlenmesi, Google Play ve diğer uygulama mağazaları ile 6698 sayılı KVKK kapsamında bilgilendirme."
+      },
+      "path": "gizlilik-politikasi",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "textmodul": false,
+      "desc": {}
+    },
+    {
       "name": {
         "tr": "İletişim"
       },
@@ -12,7 +34,7 @@
       "id": "xnzu5au0ag",
       "url": "",
       "path": "iletisim",
-      "index": 0,
+      "index": 1,
       "icon": "home",
       "desing": {
         "header": [],
@@ -24,9 +46,6 @@
       },
       "pathnext": "",
       "description": {
-        "tr": ""
-      },
-      "spot": {
         "tr": ""
       },
       "desc": {}
